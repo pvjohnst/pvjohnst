@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pvjohnst
 - 👀 I’m interested in Learning C and other languages.
 - 🌱 I’m currently learning C.
-- 💞️ I’m looking to collaborate on just about anything suitable for my smooth brain.
+- 💞️ I’m looking to collaborate on just about anything.
 - 📫 How to reach me pvjohnst@asu.edu
 
 <!---
